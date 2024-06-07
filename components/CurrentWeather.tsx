@@ -30,7 +30,7 @@ const CurrentWeather = () => {
                         Precipitation
                     </Text>
                     <Text variant="body" className="text-gray-400">
-                        2.3" in last 24h
+                        2.3&quot; in last 24h
                     </Text>
                 </div>
             </div>
